@@ -27,3 +27,9 @@ Aulas e Desafios do portal Rocketseat
     box-sizing: border-box;
 }
 ~~~
+~~~git
+git status
+git add .
+git commit -m 'teste'
+git push origin main
+~~~
