@@ -10,3 +10,20 @@ Aulas e Desafios do portal Rocketseat
  * HTML
  * CSS
  * JavaScript
+
+~~~html
+<html>
+    <head>
+        <title>Teste<title>
+    </head>
+</html>
+
+~~~
+~~~css
+/* CSS Reset */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+~~~
