@@ -16,6 +16,9 @@ Aulas e Desafios do portal Rocketseat
     <head>
         <title>Teste<title>
     </head>
+    <body>
+        <h1>Home Page</h1>
+    </body>
 </html>
 
 ~~~
